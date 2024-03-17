@@ -1,3 +1,9 @@
+# video
+[![Video link](http://img.youtube.com/vi/L2Kq5LMGU3I/0.jpg)](http://www.youtube.com/watch?v=L2Kq5LMGU3I "Video Title")
+
+
+
+
 # idea
 ![image (2)](https://github.com/yandesk7/LinguaWordWiki/assets/143715888/0002f6b2-584e-4bb3-a4e9-218fa3908b88)
 
@@ -22,7 +28,9 @@ python main.py
 
 ### screenshots
 <img width="646" alt="safdsadf" src="https://github.com/yandesk7/LinguaWordWiki/assets/143715888/22322f50-0a62-45fa-81fd-bffb1bbd84c5">
+
 In working folder is created 2 text files
+
 <img width="785" alt="asd" src="https://github.com/yandesk7/LinguaWordWiki/assets/143715888/0d856507-309f-4e3d-81aa-f02bac351e97">
 
 
